@@ -1,15 +1,22 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=220&section=header&text=Suheb%20Shaikh&fontSize=52&fontColor=0F172A&desc=Multi-Cloud%20DevOps%20%7C%20Big%20Data%20Engineer&descAlignY=68&descSize=24&descColor=334155"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=220&section=header&text=Suheb%20Shaikh&fontSize=52&fontColor=000000&desc=Multi-Cloud%20DevOps%20%7C%20Big%20Data%20Engineer&descAlignY=68&descSize=24&descColor=1E3A8A"/>
 
 <p>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
 <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CI%2FCD-0F172A?style=for-the-badge&logo=githubactions&logoColor=2088FF"/>
+
 </p>
 
 <p>
@@ -18,10 +25,9 @@ Building production-grade cloud infrastructure, automated pipelines, and enterpr
 </i>
 </p>
 
+</div>
 
-<br>
-
-<div align="center">
+<div align="left">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
