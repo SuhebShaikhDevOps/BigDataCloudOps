@@ -46,14 +46,20 @@ Multi-Cloud DevOps and Big Data Engineer with **6+ years of industry experience*
 
 ---
 
-## Current Focus
 
-* **Architecting** automated multi-cloud deployment strategies using Terraform and Kubernetes.
-* **Optimizing** enterprise Big Data pipelines and Hadoop cluster migrations across Hortonworks and Cloudera ecosystems.
-* **Implementing** zero-downtime CI/CD pipelines with Harness, GitHub Actions, Jenkins, and ArgoCD.
-* **Areas of expertise:** AWS, Azure, GCP, Hortonworks, Cloudera, Kubernetes, Terraform, Ansible, CI/CD, and Big Data Analytics.
+## 🚀 Current Focus
+
+- ☁️ Supporting production cloud infrastructure across **AWS** and **Azure**.
+- ☸️ Managing **Kubernetes** clusters and containerized workloads using **Docker**.
+- 🔄 Building and maintaining **CI/CD** pipelines with **GitHub Actions**, **Jenkins**, and **Harness**.
+- 🏗️ Automating infrastructure provisioning using **Terraform** and **Ansible**.
+- 🐧 Administering **Linux** servers, troubleshooting production issues, and ensuring platform reliability.
+- 📊 Supporting **Big Data** platforms, including **Hadoop (HDFS, YARN, Hive)** administration and operations.
+- 📈 Monitoring system health and performance using enterprise monitoring and logging tools.
+- 📚 Continuously learning and implementing modern **Cloud**, **DevOps**, and **Platform Engineering** best practices.
 
 ---
+
 
 ## Technology Stack
 
