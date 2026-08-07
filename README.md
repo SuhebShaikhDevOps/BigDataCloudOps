@@ -1,10 +1,16 @@
-
 <div align="center">
 
-# Suheb Shaikh
-### Senior Multi-Cloud DevOps & Big Data Engineer
+<h1 style="font-weight: 800; font-size: 2.8rem; letter-spacing: -1px;">
+  <span style="background: linear-gradient(120deg, #22d3ee, #818cf8, #c084fc, #f472b6); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    Suheb Shaikh
+  </span>
+</h1>
 
-*Building production-grade cloud infrastructure, automated pipelines, and enterprise data ecosystems.*
+<p>
+  <code>🚀 Senior Multi-Cloud DevOps & Big Data Engineer 🐘</code>
+</p>
+
+<em>Building production-grade cloud infrastructure, automated pipelines, and enterprise data ecosystems.</em>
 
 </div>
 
