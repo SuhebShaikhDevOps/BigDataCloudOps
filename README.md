@@ -1,10 +1,12 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEF6FF,50:DCEEFF,100:C7E3FF&height=220&section=header&text=Suheb%20Shaikh&fontSize=52&fontColor=000000"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEF6FF,50:DCEEFF,100:C7E3FF&height=220&section=header&text=Suheb%20Shaikh&fontSize=52&fontColor=000000"/>
 
-  <h2>
-    Multi-Cloud DevOps | Big Data Engineer
-  </h2>
+<h2>☁️ Multi-Cloud DevOps | Big Data Engineer</h2>
+
+<p><i>Building production-grade cloud infrastructure, automated pipelines, and enterprise data ecosystems.</i></p>
+
+</div>
 
   <p>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
