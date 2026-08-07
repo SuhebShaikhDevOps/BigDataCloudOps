@@ -18,18 +18,6 @@ Building production-grade cloud infrastructure, automated pipelines, and enterpr
 </i>
 </p>
 
-</div>
-
-<p>
-<i>
-Building production-grade cloud infrastructure, automated pipelines,
-and enterprise data ecosystems.
-</i>
-</p>
-
-</div>
-
-
 
 <br>
 
