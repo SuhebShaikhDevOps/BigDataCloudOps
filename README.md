@@ -87,7 +87,6 @@ Multi-Cloud DevOps and Big Data Engineer with **6+ years of industry experience*
 | **Containerization & GitOps** | Microservices deployment scaling using Kubernetes, Docker, Helm, and ArgoCD workflows. |
 | **CI/CD Automation** | Building rapid, secure release pipelines with Harness, Jenkins, and GitHub Actions. |
 | **Observability & Security** | Full-stack monitoring with Prometheus/Grafana and robust IAM/security compliance implementation. |
-| **Cloud Data Warehousing & Pipelines** | Designing scalable data pipelines, advanced role/user management, and enterprise-grade bulk data loading using Snowflake, AWS S3, Snowpipe, Streams, and Tasks. |
-
+| **Cloud Data Warehousing** | Managing enterprise-grade cloud data warehouses, advanced role/user management, and secure bulk data loading strategies using Snowflake, AWS S3, and data integration platforms. |
 
 </div>
