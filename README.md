@@ -1,11 +1,31 @@
+
 <div align="center">
 
-# <span style="background-color: white; color: #111111; padding: 2px 10px; border-radius: 6px;">Suheb Shaikh</span>
-### Multi-Cloud DevOps & Big Data Engineer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Suheb%20Shaikh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Multi-Cloud%20DevOps%20%7C%20Big%20Data%20Engineer&descAlignY=60"/>
 
-*Building production-grade cloud infrastructure, automated pipelines, and enterprise data ecosystems.*
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+</p>
+
+<h2>
+🚀 Multi-Cloud DevOps & Big Data Engineer
+</h2>
+
+<p>
+<i>
+Building production-grade cloud infrastructure, automated pipelines,
+and enterprise data ecosystems.
+</i>
+</p>
 
 </div>
+
+
 
 <br>
 
