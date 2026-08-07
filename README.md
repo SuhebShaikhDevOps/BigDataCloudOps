@@ -1,8 +1,7 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:FAFAFA,100:F5F5F5&height=250&section=header&text=Suheb%20Shaikh&fontSize=54&fontColor=000000&desc=☁️%20Multi-Cloud%20DevOps%20%7C%20Big%20Data%20Engineer&descSize=26&descAlignY=67&descColor=1E3A8A"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:3B82F6&height=250&section=header&text=Suheb%20Shaikh&fontSize=54&fontColor=ffffff&desc=%E2%98%81%EF%B8%8F%20Multi-Cloud%20DevOps%20%7C%20Big%20Data%20Engineer&descSize=24&descAlignY=67&descColor=93C5FD" />
 </div>
+
 
 
 <div align="center">
