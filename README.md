@@ -22,7 +22,7 @@
 <!-- DYNAMIC TYPING TEXT -->
 <div align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00E676&background=E2E8F0&center=true&vCenter=true&width=750&lines=Multi-Cloud+Infrastructure+(AWS+%7C+Azure+%7C+GCP);Big+Data+Platforms+(Cloudera+CDP+%7C+Hortonworks+HDP);GitOps+%26+Containerization+(Kubernetes+%7C+ArgoCD);Infrastructure+as+Code+(Terraform+%7C+Ansible);Enterprise+Observability+(Prometheus+%7C+Grafana)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=10B981&background=F1F5F9&center=true&vCenter=true&width=750&lines=Multi-Cloud+Infrastructure+(AWS+%7C+Azure+%7C+GCP);Big+Data+Platforms+(Cloudera+CDP+%7C+Hortonworks+HDP);GitOps+%26+Containerization+(Kubernetes+%7C+ArgoCD);Infrastructure+as+Code+(Terraform+%7C+Ansible);Enterprise+Observability+(Prometheus+%7C+Grafana)" alt="Typing SVG" />
 </a>
 </div>
   
