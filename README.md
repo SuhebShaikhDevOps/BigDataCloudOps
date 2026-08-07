@@ -2,9 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EEF6FF,50:DCEEFF,100:C7E3FF&height=220&section=header&text=Suheb%20Shaikh&fontSize=52&fontColor=000000"/>
 
-<h2>☁️ Multi-Cloud DevOps | Big Data Engineer</h2>
+<h2>
+<code style="color:#2563EB;">Multi-Cloud</code> DevOps | Big Data Engineer
+</h2>
 
-<p><i>Building production-grade cloud infrastructure, automated pipelines, and enterprise data ecosystems.</i></p>
+<p>
+<i>Building production-grade cloud infrastructure, automated pipelines, and enterprise data ecosystems.</i>
+</p>
 
 </div>
 
@@ -18,6 +22,7 @@
     <img src="https://img.shields.io/badge/CI%2FCD-0F172A?style=for-the-badge&logo=githubactions&logoColor=2088FF"/>
   </p>
 
+<div align="center">
 <p>
 <i>
 Building production-grade cloud infrastructure, automated pipelines, and enterprise data ecosystems.
