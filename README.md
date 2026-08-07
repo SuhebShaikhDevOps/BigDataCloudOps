@@ -1,23 +1,16 @@
 <div align="center">
 
-<h1 style="font-weight: 800; font-size: 2.8rem; letter-spacing: -1px;">
-  <span style="background: linear-gradient(120deg, #22d3ee, #818cf8, #c084fc, #f472b6); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-    Suheb Shaikh
-  </span>
-</h1>
+# Suheb Shaikh
+### Multi-Cloud DevOps & Big Data Engineer
 
-<p>
-  <code>🚀 Senior Multi-Cloud DevOps & Big Data Engineer 🐘</code>
-</p>
-
-<em>Building production-grade cloud infrastructure, automated pipelines, and enterprise data ecosystems.</em>
+*Building production-grade cloud infrastructure, automated pipelines, and enterprise data ecosystems.*
 
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1618401471353-b98aedd04e11?auto=format&fit=crop&w=800&q=80" width="100%" alt="DevOps Banner" style="border-radius: 12px;" />
+  <img src="https://images.unsplash.com/photo-1618401471353-b98aedd04e11?auto=format&fit=crop&w=600&q=80" width="350" alt="DevOps Banner" style="border-radius: 12px;" />
 </div>
 
 <br>
@@ -25,9 +18,9 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BigDataCloudOps)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=BigDataCloudOps&color=blueviolet&style=for-the-badge)](https://github.com/BigDataCloudOps)
+[![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blueviolet&style=for-the-badge)](https://github.com/your-username)
 
 </div>
 
@@ -70,3 +63,5 @@ Multi-Cloud DevOps and Big Data Engineer with **6+ years of industry experience*
 | **Containerization & GitOps** | Microservices deployment scaling using Kubernetes, Docker, Helm, and ArgoCD workflows. |
 | **CI/CD Automation** | Building rapid, secure release pipelines with Jenkins and GitHub Actions. |
 | **Observability & Security** | Full-stack monitoring with Prometheus/Grafana and robust IAM/security compliance implementation. |
+
+</div>
