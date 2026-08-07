@@ -17,9 +17,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-username)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suheb.shaikh@example.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blueviolet&style=for-the-badge)](https://github.com/your-username)
 
 </div>
@@ -57,7 +57,7 @@ Multi-Cloud DevOps and Big Data Engineer with **6+ years of industry experience*
 
 | Area | Focus |
 | :--- | :--- |
-| **<span style="background-color: #0078D4; color: white; padding: 3px 8px; border-radius: 4px;">Multi-Cloud Infrastructure</span>** | High-availability design, VPC networking, and cloud migration frameworks across AWS, Azure, and GCP. |
+| **Multi-Cloud Infrastructure** | High-availability design, VPC networking, and cloud migration frameworks across AWS, Azure, and GCP. |
 | **Big Data Management** | Administration, performance tuning, and scaling of Hortonworks (HDP) and Cloudera (CDP) environments with Spark and Kafka data streams. |
 | **Infrastructure as Code** | Complete environment provisioning and configuration automation via Terraform and Ansible. |
 | **Containerization & GitOps** | Microservices deployment scaling using Kubernetes, Docker, Helm, and ArgoCD workflows. |
