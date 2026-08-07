@@ -4,11 +4,6 @@
 
 </div>
 
-<p>
-<i>Building production-grade cloud infrastructure, automated pipelines, and enterprise data ecosystems.</i>
-</p>
-
-</div>
 
 <div align="center">
   <p>
@@ -21,7 +16,9 @@
     <img src="https://img.shields.io/badge/CI%2FCD-0F172A?style=for-the-badge&logo=githubactions&logoColor=2088FF"/>
   </p>
 
+
 <div align="center">
+  
 <p>
 <i>
 Building production-grade cloud infrastructure, automated pipelines, and enterprise data ecosystems.
